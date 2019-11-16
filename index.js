@@ -1,0 +1,1 @@
+console.log('早上好');
